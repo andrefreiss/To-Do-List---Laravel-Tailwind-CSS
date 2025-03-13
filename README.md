@@ -9,7 +9,7 @@ Before getting started, you'll need:
 - PHP 8.x or higher
 - Composer
 - Node.js and npm
-- SQLite or MySQL
+- SQLite
 
 ## Steps to Run the Project Locally
 
@@ -18,6 +18,7 @@ Before getting started, you'll need:
 Clone the repository to your local machine using the following command:
 
 ```bash
+
 git clone hgit@github.com:andrefreiss/To-Do-List---Laravel-Tailwind-CSS.git
 ```
 

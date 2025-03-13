@@ -19,7 +19,7 @@ Clone the repository to your local machine using the following command:
 
 ```bash
 
-git clone hgit@github.com:andrefreiss/To-Do-List---Laravel-Tailwind-CSS.git
+git clone git@github.com:andrefreiss/To-Do-List---Laravel-Tailwind-CSS.git
 ```
 
 2. Install Composer dependencies
